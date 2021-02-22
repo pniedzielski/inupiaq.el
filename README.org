@@ -1,0 +1,22 @@
+#+TITLE:   iñupiaq.el
+#+AUTHOR:  Patrick M. Niedzielski
+#+EMAIL:   patrick@pniedzielski.net
+
+Iñupiaq input method with postfix modifiers. This package supports the
+North Slope and Northwest Arctic alphabet, the Seward Peninsula, and
+the Canadian Iñupiaq alphabet.
+
+The following key sequences are recognized (as well as lowercase
+versions):
+
+  - =G. → Ġ=
+  - =L. → Ḷ=
+  - =L/ → Ł=
+  - =L./ → Ł̣=
+  - =L/. → Ł̣=
+  - =N~ → Ñ=
+  - =N, → Ŋ=
+  - =R^ → R̂=
+
+Doubling the postfix separates the letter and postfix: e.g. =g.. →
+g.=.
