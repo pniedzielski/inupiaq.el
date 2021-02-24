@@ -56,7 +56,7 @@
 
 (require 'quail)
 (quail-define-package
- "iñupiaq-postfix" "Latin-1" "ON<" t
+ "iñupiaq-postfix" "Latin-1" "IÑ<" t
  "Iñupiaq input method with postfix modifiers
 
 G. -> Ġ
